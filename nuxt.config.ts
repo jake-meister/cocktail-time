@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   // Pre-render routes at build time
   nitro: {
     prerender: {
-      routes: ['/party/nye-2026', '/party/summer-bbq', '/party/prohib']
+      routes: ['/nye-2026', '/summer-bbq', '/prohib']
     }
   },
 

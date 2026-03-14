@@ -12,7 +12,7 @@
         <h2 class="text-2xl font-semibold text-gray-200 mb-4">Available Parties:</h2>
 
         <NuxtLink
-          to="/party/nye-2026"
+          to="/nye-2026"
           class="block p-6 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
         >
           <h3 class="text-2xl font-bold text-yellow-400 mb-2">New Year's Eve 2026</h3>
@@ -20,7 +20,7 @@
         </NuxtLink>
 
         <NuxtLink
-          to="/party/summer-bbq"
+          to="/summer-bbq"
           class="block p-6 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
         >
           <h3 class="text-2xl font-bold text-red-400 mb-2">Summer BBQ Bash</h3>

@@ -20,7 +20,7 @@
         class="text-center"
       >
         <h3
-          class="font-semibold uppercase tracking-[0.2em] text-sm mb-1.5"
+          class="font-semibold uppercase tracking-[0.2em] text-base mb-1.5"
           :style="goldStyle"
         >
           {{ cocktail.name }}
@@ -60,7 +60,7 @@ const highlightPos = computed(() => Math.min(scrollProgress.value * 1.75 - 80, 1
 const goldStyle = computed(() => ({
   background: `linear-gradient(
     90deg,
-    #4a2e08 10%,
+    #4a2e08 ${highlightPos.value - 75}%,
     #7a5311 ${highlightPos.value - 25}%,
     #c9a84c ${highlightPos.value - 10}%,
     #f5d98e ${highlightPos.value}%,
