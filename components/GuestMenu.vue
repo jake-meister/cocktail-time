@@ -55,21 +55,19 @@ onMounted(() => window.addEventListener('scroll', onScroll, { passive: true }));
 onUnmounted(() => window.removeEventListener('scroll', onScroll));
 
 // Highlight position sweeps left→right as user scrolls
-const highlightPos = computed(() => scrollProgress.value * 2 - 120);
+const highlightPos = computed(() => Math.min(scrollProgress.value * 1.75 - 80, 150));
 
 const goldStyle = computed(() => ({
   background: `linear-gradient(
     90deg,
-    #4a2e08 0%,
-    #9a6e22 8%,
-    #c9a84c 18%,
-    #7a5311 28%,
-    #c9a84c 38%,
+    #4a2e08 10%,
+    #7a5311 ${highlightPos.value - 25}%,
+    #c9a84c ${highlightPos.value - 10}%,
     #f5d98e ${highlightPos.value}%,
     #fffbe8 ${highlightPos.value + 5}%,
     #f5d98e ${highlightPos.value + 10}%,
-    #c9a84c 65%,
-    #7a5311 78%,
+    #c9a84c ${highlightPos.value + 20}%,
+    #7a5311 ${highlightPos.value + 28}%,
     #c9a84c 88%,
     #9a6e22 94%,
     #4a2e08 100%
