@@ -118,8 +118,8 @@
       "name": "Tequila Eastside",
       "description": "",
       "ingredients": [
-        { "name": "mint leaves", "amount": "5–7", "category": "garnish" },
-        { "name": "cucumber slices", "amount": "3", "category": "mixer" },
+        { "name": "mint", "amount": "5–7", "category": "garnish" },
+        { "name": "cucumber", "amount": "3", "category": "mixer" },
         { "name": "simple", "amount": "¾ oz", "category": "sweetener" },
         { "name": "lime", "amount": "1 oz", "category": "mixer" },
         { "name": "tequila blanco", "amount": "1½ oz", "category": "spirit" }
