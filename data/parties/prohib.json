@@ -1,0 +1,165 @@
+{
+  "slug": "prohib",
+  "name": "Prohib Collection",
+  "date": "nicole's jesus day 2026",
+  "description": "A collection of prohibition-era classics and modern riffs, served in the spirit of the speakeasy.",
+  "theme": {
+    "primaryColor": "#C9A84C",
+    "secondaryColor": "#0d0d0d"
+  },
+  "cocktails": [
+    {
+      "id": "corpse-reviver-no-2",
+      "name": "Corpse Reviver No. 2",
+      "description": "",
+      "ingredients": [
+        { "name": "Gin", "amount": "¾ oz", "category": "spirit" },
+        { "name": "Dry Curaçao", "amount": "¾ oz", "category": "spirit" },
+        { "name": "Lillet Blanc", "amount": "¾ oz", "category": "spirit" },
+        { "name": "Lemon", "amount": "¾ oz", "category": "mixer" },
+        { "name": "Absinthe", "amount": "1 dash", "category": "spirit" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "",
+      "tags": ["gin", "classic"]
+    },
+    {
+      "id": "boulevardier",
+      "name": "Boulevardier",
+      "description": "",
+      "ingredients": [
+        { "name": "Bourbon", "amount": "1½ oz", "category": "spirit" },
+        { "name": "Campari", "amount": "1 oz", "category": "spirit" },
+        { "name": "Antica Formula", "amount": "¾ oz", "category": "spirit" }
+      ],
+      "instructions": [],
+      "glassware": "Rocks glass",
+      "garnish": "",
+      "tags": ["bourbon", "classic"]
+    },
+    {
+      "id": "blood-and-sand",
+      "name": "Blood and Sand",
+      "description": "",
+      "ingredients": [
+        { "name": "Scotch", "amount": "¾ oz", "category": "spirit" },
+        { "name": "Ginjinha", "amount": "¾ oz", "category": "spirit" },
+        { "name": "Antica Formula", "amount": "¾ oz", "category": "spirit" },
+        { "name": "Orange", "amount": "¾ oz", "category": "mixer" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "",
+      "tags": ["scotch", "classic"]
+    },
+    {
+      "id": "tom-collins",
+      "name": "Tom Collins",
+      "description": "",
+      "ingredients": [
+        { "name": "Gin", "amount": "2 oz", "category": "spirit" },
+        { "name": "Lemon", "amount": "¾–1 oz", "category": "mixer" },
+        { "name": "Simple", "amount": "½ oz", "category": "sweetener" },
+        { "name": "Club soda", "amount": "to top", "category": "mixer" }
+      ],
+      "instructions": [],
+      "glassware": "Collins glass",
+      "garnish": "",
+      "tags": ["gin", "classic", "highball"]
+    },
+    {
+      "id": "sidecar",
+      "name": "Sidecar",
+      "description": "",
+      "ingredients": [
+        { "name": "Cognac", "amount": "1½ oz", "category": "spirit" },
+        { "name": "Orange liqueur", "amount": "1 oz", "category": "spirit" },
+        { "name": "Lemon", "amount": "¾ oz", "category": "mixer" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "",
+      "tags": ["cognac", "classic"]
+    },
+    {
+      "id": "scofflaw",
+      "name": "Scofflaw",
+      "description": "",
+      "ingredients": [
+        { "name": "Whiskey", "amount": "1½ oz", "category": "spirit" },
+        { "name": "Dry vermouth", "amount": "1 oz", "category": "spirit" },
+        { "name": "Lemon", "amount": "¾ oz", "category": "mixer" },
+        { "name": "Grenadine", "amount": "¼–½ oz", "category": "sweetener" },
+        { "name": "Orange bitters", "amount": "1–2 dashes", "category": "bitter" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "",
+      "tags": ["rye", "classic"]
+    },
+    {
+      "id": "sage-bees-knees",
+      "name": "Sage Bees Knees",
+      "description": "",
+      "ingredients": [
+        { "name": "Gin", "amount": "1½ oz", "category": "spirit" },
+        { "name": "Honey", "amount": "½ oz", "category": "sweetener" },
+        { "name": "Lemon", "amount": "½ oz", "category": "mixer" },
+        { "name": "Sage leaves", "amount": "2", "category": "garnish" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "Sage leaf",
+      "tags": ["gin", "modern", "herbal"]
+    },
+    {
+      "id": "tequila-eastside",
+      "name": "Tequila Eastside",
+      "description": "",
+      "ingredients": [
+        { "name": "Mint leaves", "amount": "5–7", "category": "garnish" },
+        { "name": "Cucumber slices", "amount": "3", "category": "mixer" },
+        { "name": "Simple", "amount": "¾ oz", "category": "sweetener" },
+        { "name": "Lime", "amount": "1 oz", "category": "mixer" },
+        { "name": "Tequila blanco", "amount": "1½ oz", "category": "spirit" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "Mint, cucumber",
+      "tags": ["tequila", "modern", "refreshing"]
+    },
+    {
+      "id": "rum-sazerac",
+      "name": "Rum Sazerac",
+      "description": "",
+      "ingredients": [
+        { "name": "Rum", "amount": "2 oz", "category": "spirit" },
+        { "name": "Simple", "amount": "½ tsp", "category": "sweetener" },
+        { "name": "Peychaud's bitters", "amount": "4 dashes", "category": "bitter" },
+        { "name": "Angostura bitters", "amount": "1 dash", "category": "bitter" },
+        { "name": "Absinthe", "amount": "1 dash", "category": "spirit" }
+      ],
+      "instructions": [],
+      "glassware": "Rocks glass",
+      "garnish": "Lemon twist",
+      "tags": ["rum", "classic"]
+    },
+    {
+      "id": "golnār-club",
+      "name": "Golnār Club",
+      "description": "",
+      "ingredients": [
+        { "name": "Gin", "amount": "1½ oz", "category": "spirit" },
+        { "name": "Dry vermouth", "amount": "½ oz", "category": "spirit" },
+        { "name": "Lemon", "amount": "½ oz", "category": "mixer" },
+        { "name": "Grenadine", "amount": "¼ oz", "category": "sweetener" },
+        { "name": "Egg white", "amount": "¾ oz", "category": "mixer" }
+      ],
+      "instructions": [],
+      "glassware": "Coupe",
+      "garnish": "",
+      "tags": ["gin", "classic", "sour"]
+    }
+  ]
+}

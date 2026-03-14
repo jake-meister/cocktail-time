@@ -1,0 +1,157 @@
+{
+  "slug": "nye-2026",
+  "name": "New Year's Eve 2026",
+  "date": "December 31, 2026",
+  "description": "Ring in the new year with these festive cocktails! Classic champagne cocktails and sparkling celebrations await.",
+  "theme": {
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#1a1a1a"
+  },
+  "cocktails": [
+    {
+      "id": "french-75",
+      "name": "French 75",
+      "description": "A sophisticated champagne cocktail with gin and lemon, named after a French artillery gun",
+      "ingredients": [
+        {
+          "name": "Gin",
+          "amount": "1.5 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Fresh lemon",
+          "amount": "0.5 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Simple",
+          "amount": "0.5 oz",
+          "category": "sweetener"
+        },
+        {
+          "name": "Champagne",
+          "amount": "3 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Lemon twist",
+          "amount": "1",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Add gin, lemon, and simple to a cocktail shaker with ice",
+        "Shake well until chilled",
+        "Strain into a champagne flute",
+        "Top with champagne",
+        "Garnish with a lemon twist"
+      ],
+      "glassware": "Champagne flute",
+      "garnish": "Lemon twist",
+      "tags": ["champagne", "classic", "elegant"]
+    },
+    {
+      "id": "champagne-cocktail",
+      "name": "Classic Champagne Cocktail",
+      "description": "A timeless celebration drink with a sugar cube twist",
+      "ingredients": [
+        {
+          "name": "Sugar cube",
+          "amount": "1",
+          "category": "sweetener"
+        },
+        {
+          "name": "Angostura bitters",
+          "amount": "2 dashes",
+          "category": "bitter"
+        },
+        {
+          "name": "Champagne",
+          "amount": "4 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Orange peel",
+          "amount": "1",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Place sugar cube in champagne flute",
+        "Add bitters to sugar cube",
+        "Fill with champagne",
+        "Garnish with orange peel"
+      ],
+      "glassware": "Champagne flute",
+      "garnish": "Orange peel",
+      "tags": ["champagne", "classic", "simple"]
+    },
+    {
+      "id": "kir-royale",
+      "name": "Kir Royale",
+      "description": "An elegant French cocktail with champagne and black currant liqueur",
+      "ingredients": [
+        {
+          "name": "Crème de cassis",
+          "amount": "0.5 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Champagne",
+          "amount": "4 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Lemon twist",
+          "amount": "1",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Pour crème de cassis into champagne flute",
+        "Top with champagne",
+        "Gently stir",
+        "Garnish with lemon twist"
+      ],
+      "glassware": "Champagne flute",
+      "garnish": "Lemon twist",
+      "tags": ["champagne", "fruity", "elegant"]
+    },
+    {
+      "id": "midnight-martini",
+      "name": "Midnight Martini",
+      "description": "A dark and mysterious martini variation perfect for New Year's Eve",
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "amount": "2 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Black raspberry liqueur",
+          "amount": "0.5 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Splash of pineapple",
+          "amount": "0.5 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Fresh raspberries",
+          "amount": "3",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Add vodka, black raspberry liqueur, and pineapple to shaker with ice",
+        "Shake vigorously",
+        "Strain into chilled martini glass",
+        "Garnish with fresh raspberries"
+      ],
+      "glassware": "Martini glass",
+      "garnish": "Fresh raspberries",
+      "tags": ["vodka", "fruity", "modern"]
+    }
+  ]
+}

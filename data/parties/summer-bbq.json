@@ -1,0 +1,203 @@
+{
+  "slug": "summer-bbq",
+  "name": "Summer BBQ Bash",
+  "date": "July 4, 2026",
+  "description": "Beat the heat with these refreshing summer cocktails! Perfect companions for grilled foods and sunny afternoons.",
+  "theme": {
+    "primaryColor": "#FF6B6B",
+    "secondaryColor": "#1a1a1a"
+  },
+  "cocktails": [
+    {
+      "id": "watermelon-mojito",
+      "name": "Watermelon Mojito",
+      "description": "A refreshing twist on the classic mojito with fresh watermelon",
+      "ingredients": [
+        {
+          "name": "White rum",
+          "amount": "2 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Fresh lime",
+          "amount": "1 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Simple",
+          "amount": "0.5 oz",
+          "category": "sweetener"
+        },
+        {
+          "name": "Fresh watermelon",
+          "amount": "2 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Fresh mint leaves",
+          "amount": "8-10",
+          "category": "garnish"
+        },
+        {
+          "name": "Soda water",
+          "amount": "Top",
+          "category": "mixer"
+        },
+        {
+          "name": "Watermelon wedge",
+          "amount": "1",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Muddle mint leaves with simple in a glass",
+        "Add rum, lime, and watermelon",
+        "Fill with ice",
+        "Top with soda water",
+        "Stir gently",
+        "Garnish with watermelon wedge and mint sprig"
+      ],
+      "glassware": "Highball glass",
+      "garnish": "Watermelon wedge and mint",
+      "tags": ["rum", "refreshing", "fruity"]
+    },
+    {
+      "id": "aperol-spritz",
+      "name": "Aperol Spritz",
+      "description": "The iconic Italian aperitif, perfect for summer gatherings",
+      "ingredients": [
+        {
+          "name": "Prosecco",
+          "amount": "3 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Aperol",
+          "amount": "2 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Soda water",
+          "amount": "1 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Orange slice",
+          "amount": "1",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Fill wine glass with ice",
+        "Add Prosecco",
+        "Add Aperol",
+        "Top with soda water",
+        "Stir gently",
+        "Garnish with orange slice"
+      ],
+      "glassware": "Wine glass",
+      "garnish": "Orange slice",
+      "tags": ["aperitif", "light", "italian"]
+    },
+    {
+      "id": "frozen-strawberry-margarita",
+      "name": "Frozen Strawberry Margarita",
+      "description": "A slushy, fruity margarita that's perfect for hot summer days",
+      "ingredients": [
+        {
+          "name": "Tequila",
+          "amount": "2 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Triple sec",
+          "amount": "1 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Fresh lime",
+          "amount": "1 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Fresh strawberries",
+          "amount": "6-8",
+          "category": "mixer"
+        },
+        {
+          "name": "Simple",
+          "amount": "0.5 oz",
+          "category": "sweetener"
+        },
+        {
+          "name": "Ice",
+          "amount": "2 cups",
+          "category": "other"
+        },
+        {
+          "name": "Salt for rim",
+          "amount": "As needed",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Rim glass with salt",
+        "Add tequila, triple sec, lime, strawberries, simple, and ice to blender",
+        "Blend until smooth",
+        "Pour into rimmed glass",
+        "Garnish with fresh strawberry"
+      ],
+      "glassware": "Margarita glass",
+      "garnish": "Fresh strawberry",
+      "tags": ["tequila", "frozen", "fruity"]
+    },
+    {
+      "id": "cucumber-gin-fizz",
+      "name": "Cucumber Gin Fizz",
+      "description": "A light and refreshing gin cocktail with crisp cucumber notes",
+      "ingredients": [
+        {
+          "name": "Gin",
+          "amount": "2 oz",
+          "category": "spirit"
+        },
+        {
+          "name": "Fresh cucumber slices",
+          "amount": "4-5",
+          "category": "mixer"
+        },
+        {
+          "name": "Fresh lemon",
+          "amount": "0.75 oz",
+          "category": "mixer"
+        },
+        {
+          "name": "Simple",
+          "amount": "0.5 oz",
+          "category": "sweetener"
+        },
+        {
+          "name": "Soda water",
+          "amount": "Top",
+          "category": "mixer"
+        },
+        {
+          "name": "Cucumber ribbon",
+          "amount": "1",
+          "category": "garnish"
+        }
+      ],
+      "instructions": [
+        "Muddle cucumber slices in shaker",
+        "Add gin, lemon, and simple",
+        "Fill shaker with ice and shake well",
+        "Double strain into glass filled with ice",
+        "Top with soda water",
+        "Garnish with cucumber ribbon"
+      ],
+      "glassware": "Highball glass",
+      "garnish": "Cucumber ribbon",
+      "tags": ["gin", "refreshing", "light"]
+    }
+  ]
+}
